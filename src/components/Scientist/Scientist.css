@@ -1,0 +1,72 @@
+/* scientists section  */
+.scientist-box {
+  border: 1px solid #005f73;
+  border-radius: 20px;
+  box-shadow: 4px 4px 8px 0px rgba(149, 175, 192, 0.5);
+  transition: 0.4s;
+}
+
+.scientist-box:hover {
+  transform: translateY(-10px);
+  box-shadow: none;
+}
+/* scientist details  */
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+  border-color: #005f73;
+  position: relative;
+}
+
+/* social icons  */
+
+.social-icons a {
+  display: inline-block;
+  background: #006d77;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+  width: 30px;
+  height: 30px;
+  line-height: 22px;
+  border-radius: 50%;
+  font-size: 18px;
+  text-align: center;
+  transition: 0.4s;
+}
+
+.social-icons a:hover {
+  transform: scale(1.1);
+}
+
+.name {
+  font-size: 22px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  color: #14213d;
+}
+.age {
+  font-size: 18px;
+}
+.education,
+.occpation,
+.know-for {
+  color: #14213d;
+  margin: 10px 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.salary {
+  color: #0e4e8a;
+  font-size: 18px;
+}
+/* regular-btn */
+.regular-btn {
+  background: rgba(221, 121, 55, 0.882);
+  color: #fff;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+}
