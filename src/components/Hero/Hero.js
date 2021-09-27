@@ -7,7 +7,7 @@ const Hero = () => {
     // hero section
     <div className="container hero-section">
       <div>
-        <h3 className="section-title">Build a team of computer scientists</h3>
+        <h3 className="section-title">Build a team of Programmer</h3>
         <p>
           World technology is advancing rapidly. Having a team of computer
           scientists can boost your business to the next level.

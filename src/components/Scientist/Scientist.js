@@ -1,12 +1,5 @@
 import React from "react";
-// react font awesome
-/* import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faUserPlus } from "@fortawesome/free-solid-svg-icons";
-import {
-  faGithub,
-  faFacebook,
-  faTwitter,
-} from "@fortawesome/free-brands-svg-icons"; */
+
 import "./Scientist.css";
 
 const Scientist = (props) => {
@@ -50,7 +43,7 @@ const Scientist = (props) => {
               className="regular-btn animate__animated animate__backInUp animate__delay-2s"
             >
               <span className="icon me-2">
-                {/* <FontAwesomeIcon icon={faUserPlus} /> */}
+                <i className="fas fa-shopping-cart"></i>
               </span>
               Add to Team
             </button>
