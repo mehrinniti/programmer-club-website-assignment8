@@ -1,5 +1,5 @@
 ## Programmer Club
-<a href="https://thirsty-volhard-bb6866.netlify.app/"> live site </a>
+<a href="https://thirsty-volhard-bb6866.netlify.app/"> Visit our website </a>
 
 ## about this website
 <ul>
